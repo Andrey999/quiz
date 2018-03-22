@@ -1,0 +1,1 @@
+var eisai_calc = {};
